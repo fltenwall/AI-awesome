@@ -13,37 +13,53 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 <a href="#轻松理解">轻松理解</a>
 
-<a href="#轻松理解">基础入门</a>
+<a href="#基础入门">基础入门</a>
 
-<a href="#轻松理解">动手实践</a>
+<a href="#动手实践">动手实践</a>
 
-<a href="#轻松理解">AI框架</a>
+<a href="#AI框架">AI框架</a>
 
-<a href="#轻松理解">AI工具书</a>
+<a href="#AI工具书">AI工具书</a>
 
-<a href="#轻松理解">AI领域应用</a>
+<a href="#AI领域应用">AI领域应用</a>
 
-<a href="#轻松理解">进阶</a>
+<a href="#进阶">进阶</a>
 
-<a href="#轻松理解">AI基础数学</a>
+<a href="#AI基础数学">AI基础数学</a>
 
-<a href="#轻松理解">AI算法与数学基础</a>
+<a href="#AI算法与数学基础">AI算法与数学基础</a>
 
-<a href="#轻松理解">专业性强</a>
+<a href="#专业性强">专业性强</a>
 
-<a href="#轻松理解">AI学术</a>
+<a href="#AI学术">AI学术</a>
 
-<a href="#轻松理解">AI产品设计</a>
+<a href="#AI产品设计">AI产品设计</a>
 
-<a href="#轻松理解">商业应用</a>
+<a href="#商业应用">商业应用</a>
 
-<a href="#轻松理解">智能经济</a>
+<a href="#智能经济">智能经济</a>
 
-<a href="#轻松理解">社会影响与未来思考</a>
+<a href="#社会影响与未来思考">社会影响与未来思考</a>
 
-<a href="#轻松理解">AI探索与优化</a>
+<a href="#AI探索与优化">AI探索与优化</a>
 
-<a href="#轻松理解">AI面试与竞赛</a>
+<a href="#AI面试与竞赛">AI面试与竞赛</a>
+
+<a href="#AI与其他编程语言">AI与其他编程语言</a>
+
+
+
+### 视频课程
+
+<a id="培训机构">培训机构</a>
+
+<a id="中国大学MOOK">中国大学MOOK</a>
+
+<a id="网易公开课">网易公开课</a>
+
+<a id="国外视频">国外视频</a>
+
+
 
 -------------------------------------------------------------------
 
@@ -270,6 +286,8 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 《增强深度神经网络》凯蒂·沃尔 著
 
+《动手打造深度学习框架》李伟 著
+
 <a href="#AI基础数学"></a>
 #### AI基础数学
 《机器学习中的数学》孙博 著
@@ -316,6 +334,8 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 《分布式人工智能》安波 等 著
 
 《快速构建AI应用--AWS无服务器AI应用实战》[美] 彼得·埃尔格，伊恩·沙纳吉 著
+
+《生成式深度学习》大卫·福斯特（David Foster） 著
 
 <a href="#AI学术"></a>
 #### AI学术
@@ -391,3 +411,134 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 《百面深度学习 算法工程师带你去面试》诸葛越，江云胜 著
 
 《机器学习算法竞赛实战》王贺，刘鹏，钱乾 著
+
+
+<a href="AI与其他编程语言"></a>
+#### AI与其他编程语言
+《JavaScript深度学习》
+
+《实用Bot开发指南：基于Node.js与Bot框架设计并构建聊天机器人》[美] 西蒙·罗兹加(Szymon，Rozga) 著
+
+《基于Java的深度学习》[印] 拉胡尔.拉吉 著
+
+《深度学习：Java语言实现》[日] 巣笼悠辅（Yusuke Sugomori） 著
+
+《基于R语言的机器学习》[美] 斯科特（Scott，V.，Burger） 著
+
+《R语言深度学习》[美] 弗朗索瓦·肖莱（Francois Chollet） 等 著
+
+《深度学习（R语言版）》[英] 斯沃纳·古普塔（Swarna Gupta） 著
+
+《基于R语言的高级深度学习》[美] 巴拉坦德拉·拉伊（Bharatendra Rai） 著
+
+《深度学习实战手册 R语言版》[印度] 普拉卡什（Prakash），阿丘图尼·斯里·克里希纳·拉奥（Achyutuni，Sri，Krishna，Rao） 著
+
+《深度学习:R语言实践指南》[美]托威赫 贝索洛Taweh Beys 著
+
+《深度学习企业实战 基于R语言》[英] 尼格尔·刘易斯N.D Lewis 著
+
+《深度学习实践指南 基于R语言》[英] 尼格尔·刘易斯N.D. Lewis 著
+
+《深度学习精要 基于R语言》[美] Joshua F. W 著
+
+《R语言统计分析与机器学习》薛震 孙玉林 著 著
+
+《深度学习与R语言》程显毅 著
+
+《机器学习与R语言》[美] 布雷特·兰茨（Brett Lantz） 著
+
+《R语言机器学习实战》[美] 弗雷德·恩旺加 著
+
+《R语言机器学习 使用案例分析》[印度] 拉格哈夫·巴利（RaghavBali）
+
+《R&Python数据科学与机器学习实践》有贺友纪，大桥俊介 著
+
+《MATLAB与机器学习》
+
+《MATLAB机器学习：人工智能工程实践》[美] 迈克尔·帕拉斯泽克，斯蒂芬妮·托马斯 著
+
+《机器学习入门到实战——MATLAB 实践应用》冷雨泉，张会文，张伟 著
+
+《MATLAB机器学习》[意] 朱塞佩·恰布罗（Giuseppe Ciaburro） 著
+
+《MATLAB 2020 智能算法从入门到精通》甘勤涛 著
+
+《机器学习算法（MATLAB版）》马昌凤 柯艺芬 谢亚君
+
+《深度学习经典案例解析 基于MATLAB》赵小川
+
+《深度学习理论及实战（MATLAB版》赵小川，何灏 著
+
+《实用MATLAB深度学习：基于项目的方法》[美] 迈克尔·帕拉斯泽克（Michael Paluszek） 著
+
+《深度学习：基于Matlab的设计实例》[韩]Phil，Kim 著
+
+《MATLAB深度学习 机器学习、神经网络与人工智能》[美]菲尔·吉米
+
+《自然语言处理与深度学习:通过C语言模拟》[日] 小高知宏
+
+《强化学习与深度学习：通过C语言模拟》[日] 小高 知宏 著 张小猛
+
+《Go语言机器学习实战》
+
+
+<a id="视频课程"></a>
+### 视频课程
+
+<a id="培训机构"></a>
+#### 培训机构
+
+[黑马程序员3天快速入门python机器学习](https://www.bilibili.com/video/BV1nt411r7tj/?spm_id_from=333.999.0.0)
+
+[黑马程序员3天带你玩转Python深度学习TensorFlow框架](https://www.bilibili.com/video/BV1Wt411C75s/?spm_id_from=333.999.0.0&vd_source=29f1413980f493b68d14f7176e7144a3)
+
+[人工智能入门-黑马程序员](https://www.bilibili.com/video/BV1L4411v7fB/?spm_id_from=333.999.0.0&vd_source=29f1413980f493b68d14f7176e7144a3)
+
+[人工智能深度学习-黑马程序员](https://www.bilibili.com/video/BV1L4411v7fB/?vd_source=29f1413980f493b68d14f7176e7144a3)
+
+[尚学堂-人工智能全套入门教程](https://www.bilibili.com/video/BV1wb411v7dy/?spm_id_from=333.999.0.0&vd_source=29f1413980f493b68d14f7176e7144a3)
+
+[尚学堂-人工智能-卷积神经网络](https://www.bilibili.com/video/BV1554y1V76v/?spm_id_from=333.999.0.0&vd_source=29f1413980f493b68d14f7176e7144a3)
+
+[尚学堂-AI人工智能无监督算法](https://www.bilibili.com/video/BV1uX4y1g7PD/?spm_id_from=333.999.0.0&vd_source=29f1413980f493b68d14f7176e7144a3)
+
+<a id="中国大学MOOK"></a>
+#### 中国大学MOOK
+
+[西安科技大学：神经网络与深度学习——TensorFlow实践](https://www.icourse163.org/course/XUST-1206363802)
+
+[北京大学：人工智能原理](https://www.icourse163.org/course/PKU-1002188003)
+
+[北京大学：人工智能与信息社会](https://www.icourse163.org/course/PKU-1003471009)
+
+[复旦大学：深度学习及其应用](https://www.icourse163.org/course/FUDAN-1205806833)
+
+[哈尔滨工业大学：深度学习基础](https://www.icourse163.org/course/HIT-1206320802)
+
+[北京联合大学：人工智能概论](https://www.icourse163.org/course/BUU-1461546165)
+
+[北京大学：人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)
+
+[北京语言大学：人工智能导论——面向人文社科专业](https://www.icourse163.org/course/BLCU-1205704802)
+
+[北京科技大学：人工智能与创新设计](https://www.icourse163.org/course/USTB-1206874802)
+
+[浙江大学：机器学习](https://www.icourse163.org/course/ZJU-1206573810)
+
+<a id="网易公开课"></a>
+#### 网易公开课
+
+[北京大学公开课：人工智能原理 ](https://open.163.com/newview/movie/free?pid=MEFE7I48P&mid=MEFE7PN82)
+
+[OpenCV+TensorFlow 入门人工智能图像处理](https://open.163.com/newview/movie/free?pid=FEUPOQ2C4&mid=BEUPOQ2D8)
+
+[零基础学Python人工智能])(https://open.163.com/newview/movie/free?pid=NGV0BVFE4&mid=GGV0BVFO7)
+
+[听陆奇讲AI](https://open.163.com/newview/movie/free?pid=XHK5K1QFI&mid=WHK5K1RB9)
+
+[中南大学公开课：人工智能PK人类智能](https://open.163.com/newview/movie/free?pid=YHE4FPJ06&mid=IHE4FPJ0R)
+
+<a id="国外视频"></a>
+#### 国外视频
+
+[吴恩达-2022-机器学习](https://www.bilibili.com/video/BV1pZ4y1v7Cf/?spm_id_from=333.788.recommend_more_video.11&vd_source=29f1413980f493b68d14f7176e7144a3)
