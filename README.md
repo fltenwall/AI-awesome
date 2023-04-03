@@ -400,20 +400,20 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 《千脑智能》杰夫·霍金斯
 
-<a href="AI探索与优化"></a>
+<a href="#AI探索与优化"></a>
 #### AI探索与优化
 《如何创造可信的AI》盖瑞·马库斯（Gary，Marcus，），欧内斯特·戴维斯（Ernest Davis） 著
 
 《可解释人工智能导论》杨强，范力欣，朱军，陈一昕，张拳石 著
 
-<a href="AI面试与竞赛"></a>
+<a href="#AI面试与竞赛"></a>
 #### AI面试与竞赛
 《百面深度学习 算法工程师带你去面试》诸葛越，江云胜 著
 
 《机器学习算法竞赛实战》王贺，刘鹏，钱乾 著
 
 
-<a href="AI与其他编程语言"></a>
+<a href="#AI与其他编程语言"></a>
 #### AI与其他编程语言
 《JavaScript深度学习》
 
@@ -482,10 +482,10 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 《Go语言机器学习实战》
 
 
-<a href="视频课程"></a>
+<a href="#视频课程"></a>
 ### 视频课程
 
-<a href="培训机构"></a>
+<a href="#培训机构"></a>
 #### 培训机构
 
 [黑马程序员3天快速入门python机器学习](https://www.bilibili.com/video/BV1nt411r7tj/?spm_id_from=333.999.0.0)
@@ -502,7 +502,7 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 [尚学堂-AI人工智能无监督算法](https://www.bilibili.com/video/BV1uX4y1g7PD/?spm_id_from=333.999.0.0&vd_source=29f1413980f493b68d14f7176e7144a3)
 
-<a href="中国大学MOOK"></a>
+<a href="#中国大学MOOK"></a>
 #### 中国大学MOOK
 
 [西安科技大学：神经网络与深度学习——TensorFlow实践](https://www.icourse163.org/course/XUST-1206363802)
@@ -525,7 +525,7 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 [浙江大学：机器学习](https://www.icourse163.org/course/ZJU-1206573810)
 
-<a href="网易公开课"></a>
+<a href="#网易公开课"></a>
 #### 网易公开课
 
 [北京大学公开课：人工智能原理 ](https://open.163.com/newview/movie/free?pid=MEFE7I48P&mid=MEFE7PN82)
@@ -538,7 +538,7 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 [中南大学公开课：人工智能PK人类智能](https://open.163.com/newview/movie/free?pid=YHE4FPJ06&mid=IHE4FPJ0R)
 
-<a href="国外视频"></a>
+<a href="#国外视频"></a>
 #### 国外视频
 
 [吴恩达-2022-机器学习](https://www.bilibili.com/video/BV1pZ4y1v7Cf/?spm_id_from=333.788.recommend_more_video.11&vd_source=29f1413980f493b68d14f7176e7144a3)
