@@ -532,7 +532,7 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 [OpenCV+TensorFlow 入门人工智能图像处理](https://open.163.com/newview/movie/free?pid=FEUPOQ2C4&mid=BEUPOQ2D8)
 
-[零基础学Python人工智能])(https://open.163.com/newview/movie/free?pid=NGV0BVFE4&mid=GGV0BVFO7)
+[零基础学Python人工智能](https://open.163.com/newview/movie/free?pid=NGV0BVFE4&mid=GGV0BVFO7)
 
 [听陆奇讲AI](https://open.163.com/newview/movie/free?pid=XHK5K1QFI&mid=WHK5K1RB9)
 
