@@ -3,6 +3,31 @@ AI学习路线🚇，入门🐑--基础🐺--进阶🐻--高级🐅
 
 # 目录
 
+### 油管精品视频
+
+[Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg) 【入门级】机器学习
+
+[Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) 【入门级】机器学习
+
+[Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c)  【入门级】深度学习
+
+[How Deep Neural Networks Work - Full Course for Beginners](https://www.youtube.com/watch?v=dPWYUELwIdM) 【入门级】神经网络
+
+[TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) 【基础级】TensorFlow 2.0框架
+
+[PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&t=37s) 【基础级】PyTorch框架
+
+[Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI) 【基础级】Keras框架
+
+[Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard](https://www.youtube.com/watch?v=0oyCUWLL_fU) 【基础级】深度学习实战
+
+[Deep Learning](https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)  【基础级】118集短课
+
+[MIT 6.S191: Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 【进阶级】MIT 深度学习59课
+
+
+
+
 ### 出版物
 
 <a href="#ChatGPT"> ChatGPT</a>
